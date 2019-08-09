@@ -1,15 +1,16 @@
 # The-F2E_PAYMENT
 
 路徑：
-
-主頁
+<br>
+<br>
+主頁 <br>
 /#/
 
-填寫資料頁 
-/#/listData/store
-/#/listData/credit
-/#/listData/webatm
-/#/listData/linepay
+填寫資料頁 <br>
+/#/listData/store <br>
+/#/listData/credit <br>
+/#/listData/webatm <br>
+/#/listData/linepay <br>
 
-完成頁
+完成頁 <br>
 /#/orderdone
